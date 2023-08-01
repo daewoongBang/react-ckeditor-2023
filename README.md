@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+yarn add @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
